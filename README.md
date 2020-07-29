@@ -1,2 +1,2 @@
 # picycle
-A small bash script to delete files from Raspbian's recycling bin.
+A small bash script to clean Raspbian's trash bin.
